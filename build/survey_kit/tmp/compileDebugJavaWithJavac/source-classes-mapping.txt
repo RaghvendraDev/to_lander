@@ -1,0 +1,2 @@
+com/quickbirdstudios/surveykit/BuildConfig.java
+ com.quickbirdstudios.surveykit.BuildConfig

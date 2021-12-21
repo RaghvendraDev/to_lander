@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/meta/metamorphosis/BuildConfig.java
+ com.meta.metamorphosis.BuildConfig
+com/meta/metamorphosis/MainActivity.java
+ com.meta.metamorphosis.MainActivity
